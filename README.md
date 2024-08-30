@@ -2,6 +2,13 @@
 This project focuses on altering an image by swapping the face and changing the background. It utilizes two images: one for the new face and another for the desired background, creating a seamless and realistic transformation.
 
 ****
+## Requirements
+- Python 3.x
+- Jupyter Notebook
+- Python Libraries- Numpy, cv2, matplotlib, insightface, rembg, PIL
+
+
+****
 
 ## Installation
 1. Clone the Repository
@@ -10,8 +17,11 @@ git clone https://github.com/Rishi-Jain2602/DeepFake.git
 ```
 2. Download the model :  [Download link](https://huggingface.co/ezioruan/inswapper_128.onnx/blob/main/inswapper_128.onnx)
 
+3. Run the Jupyter Notebook : [Jupyter Notebook](https://github.com/Rishi-Jain2602/DeepFake/blob/main/Devnex.ipynb)
+
 
 *****
+
 
 ## Result
 
